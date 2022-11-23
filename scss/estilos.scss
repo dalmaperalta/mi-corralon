@@ -1,10 +1,30 @@
 body{
     background-color:  rgb(0, 187, 255);
-
     height: 1000vh;
 }
+
 .navbar{
-   background-color:  rgb(0, 187, 255);
+   background-color:  rgb(255, 255, 255);
+}
+.container-fluid{
+    display:flex;
+
+}
+.img{
+    display: flex;
+    justify-content:center;
+
+}
+.co{
+    display: flex;
+    
+}
+p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(255, 132, 0);
+  font-size: 30px;
+  font-weight: 100;
+
 }
 
 .navbar-brand{
@@ -36,5 +56,14 @@ body{
 .tex{
     font-size: 20px;
     font-weight: 200;
+}
+
+.mapa{
+    margin: 40px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
 }
 

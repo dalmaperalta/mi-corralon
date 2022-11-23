@@ -3,7 +3,23 @@ body {
   height: 1000vh; }
 
 .navbar {
-  background-color: #00bbff; }
+  background-color: white; }
+
+.container-fluid {
+  display: flex; }
+
+.img {
+  display: flex;
+  justify-content: center; }
+
+.co {
+  display: flex; }
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ff8400;
+  font-size: 30px;
+  font-weight: 100; }
 
 .navbar-brand {
   color: aliceblue;
@@ -32,3 +48,10 @@ body {
 .tex {
   font-size: 20px;
   font-weight: 200; }
+
+.mapa {
+  margin: 40px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column; }
