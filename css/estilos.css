@@ -15,12 +15,6 @@ body {
 .co {
   display: flex; }
 
-p {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: #ff8400;
-  font-size: 30px;
-  font-weight: 100; }
-
 .navbar-brand {
   color: aliceblue;
   font-size: 30px;
